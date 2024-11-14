@@ -1,0 +1,107 @@
+[
+   {
+     "id": 1,
+     "name": "iPhone 13 mini",
+     "price": 899.9,
+     "description": "The compact powerhouse. Experience a pro-level camera system, A15 Bionic chip for lightning-fast performance, and an all-day battery life in a small and stylish design.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+   },
+   {
+     "id": 2,
+     "name": "iPhone 13 Pro",
+     "price": 799.9,
+     "description": "Capture stunning photos in low light with the Pro camera system. Enjoy a ProMotion display for smoother scrolling and a more responsive feel. Powered by the A15 Bionic chip for ultimate performance.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg"
+   },
+   {
+     "id": 3,
+     "name": "iPhone 13 Pro Max",
+     "price": 709.9,
+     "description": "Experience the ultimate iPhone with the largest Pro display ever, a powerful Pro camera system for stunning photos and videos, and the A15 Bionic chip for incredible performance.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+   },
+   {
+     "id": 4,
+     "name": "iPhone 13",
+     "price": 699.9,
+     "description": "A stunning Super Retina XDR display, advanced camera system for incredible photos and videos, and the powerful A15 Bionic chip. All in a beautiful design.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+   },
+   {
+     "id": 5,
+     "name": "iPhone 12 Pro Max",
+     "price": 599.9,
+     "description": "Experience a powerful Pro camera system, a Super Retina XDR display, and the A14 Bionic chip for blazing-fast performance. All in a durable design with Ceramic Shield front cover.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+   },
+   {
+     "id": 6,
+     "name": "iPhone 12 Pro",
+     "price": 509.9,
+     "description": "Capture stunning photos and videos with the Pro camera system. Enjoy a Super Retina XDR display and the A14 Bionic chip for incredible performance. All in a sleek and durable design.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg"
+   },
+   {
+     "id": 7,
+     "name": "iPhone 12",
+     "price": 499.9,
+     "description": "A beautiful Super Retina XDR display, powerful A14 Bionic chip, and advanced camera system for stunning photos and videos. All in a sleek and durable design.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg"
+   },
+   {
+     "id": 8,
+     "name": "iPhone 12 mini",
+     "price": 409.9,
+     "description": "The smallest, thinnest, and lightest 5G phone. A powerful A14 Bionic chip, advanced camera system, and a stunning Super Retina XDR display in a compact design.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg"
+   },
+   {
+     "id": 9,
+     "name": "iPhone SE (2020)",
+     "price": 399.9,
+     "description": "Powerful performance with the A13 Bionic chip, a beautiful Retina HD display, Touch ID for secure authentication, and a long-lasting battery life.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+   },
+   {
+     "id": 10,
+     "name": "iPhone 11 Pro Max",
+     "price": 309.9,
+     "description": "Experience a triple-camera system for incredible photos and videos, a Super Retina XDR display, and the A13 Bionic chip for powerful performance.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg"
+   },
+   {
+     "id": 11,
+     "name": "iPhone 11 Pro",
+     "price": 299.9,
+     "description": "A triple-camera system for stunning photos and videos, a Super Retina XDR display, and the A13 Bionic chip for powerful performance.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg"
+   },
+   {
+     "id": 12,
+     "name": "iPhone 11",
+     "price": 219.9,
+     "description": "A dual-camera system for stunning photos and videos, a Liquid Retina HD display, and the A13 Bionic chip for powerful performance.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
+   },
+   {
+     "id": 13,
+     "name": "iPhone XS Max",
+     "price": 209.9,
+     "description": "A large Super Retina display, powerful A12 Bionic chip, and a dual-camera system for stunning photos and videos.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg"
+   },
+   {
+     "id": 14,
+     "name": "iPhone XR",
+     "price": 201.9,
+     "description": "A beautiful Liquid Retina display, powerful A12 Bionic chip, and a single-lens camera system for great photos.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg"
+   },
+   {
+     "id": 15,
+     "name": "iPhone XS",
+     "price": 199.9,
+     "description": "A Super Retina display, powerful A12 Bionic chip, and a dual-camera system for stunning photos and videos.",
+     "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg"
+   }
+ ]
